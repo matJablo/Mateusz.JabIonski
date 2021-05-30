@@ -7,9 +7,9 @@ description: Mateusz Jablonski' professional portfolio site
 # User settings
 username: Mateusz Jabłoński
 user_title: 
-user_job_title: Software License Data Analyst
+user_job_title: Software License Data Analyst Intern
 email: mateuszj2312@gmail.com
-twitter_username: d_haitz
+twitter_username: Jan17475656
 github_username:  matJablo
 
 exclude: ['package.json', 'src' , 'node_modules']
