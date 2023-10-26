@@ -7,9 +7,9 @@ description: Mateusz Jablonski' professional portfolio site
 # User settings
 username: Mateusz Jabłoński
 user_title: 
-user_job_title: Junior Software Asset Manager
+user_job_title: IT Asset Manager
 email: mateuszj2312@gmail.com
-twitter_username: Jan17475656
+twitter_username: J
 github_username:  matJablo
 
 exclude: ['package.json', 'src' , 'node_modules']
